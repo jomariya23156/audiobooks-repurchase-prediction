@@ -8,9 +8,9 @@ This is data from an online shop selling audiobooks.
 14,084 rows excluding the columns name  
 12 columns (11 features and 1 target)  
 This is an example of our data.  
-![Data Example](./images/data_example_with_header.jpg)  
+![Data Example](./images/dataset_example_with_header.jpg)  
 **Note that**, in our **Audiobook_data.csv**, We have deleted all of the columns name because we will use numpy to load the data here, not pandas. So the real data will look like this.  
-![Real Data Example](./images/data_example.jpg)  
+![Real Data Example](./images/dataset_example.jpg)  
 
 ## Model architecture
 With the ease of task, we used a very simple model architecture here: **Dense -> Dense -> Dense**  
